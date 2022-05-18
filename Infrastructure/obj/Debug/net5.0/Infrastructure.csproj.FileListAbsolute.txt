@@ -1,0 +1,30 @@
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache
+D:\BOT\BotUpdate\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\BOT\BotUpdate\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.json
+D:\BOT\BotUpdate\Infrastructure\bin\Debug\net5.0\Infrastructure.runtimeconfig.dev.json
+D:\BOT\BotUpdate\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\BOT\BotUpdate\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+D:\BOT\BotUpdate\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\BOT\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+D:\BOT\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOT\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\BOT\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\BOT\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\BOT\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\BOT\BotUpdate\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+D:\BOT\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+D:\BOT\BotUpdate\Infrastructure\obj\Debug\net5.0\Infrastructure.genruntimeconfig.cache

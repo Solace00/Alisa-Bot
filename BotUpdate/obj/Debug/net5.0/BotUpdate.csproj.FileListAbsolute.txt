@@ -1,0 +1,139 @@
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.csproj.AssemblyReference.cache
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.AssemblyInfoInputs.cache
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.AssemblyInfo.cs
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.csproj.CoreCompileInputs.cache
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\BotUpdate.exe
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\BotUpdate.deps.json
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\BotUpdate.runtimeconfig.json
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\BotUpdate.runtimeconfig.dev.json
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\BotUpdate.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\ref\BotUpdate.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\BotUpdate.pdb
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Discord.Addons.Hosting.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Discord.Net.Commands.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Discord.Net.Core.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Discord.Net.Rest.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Discord.Net.Webhook.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Hosting.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\System.Linq.Async.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\obj\Debug\net5.0\ref\BotUpdate.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.pdb
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.genruntimeconfig.cache
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NITISH KUMAR\OneDrive\Desktop\BotUpdate\BotUpdate\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\BotUpdate.exe
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\BotUpdate.deps.json
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\BotUpdate.runtimeconfig.json
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\BotUpdate.runtimeconfig.dev.json
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\BotUpdate.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\ref\BotUpdate.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\BotUpdate.pdb
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Discord.Addons.Hosting.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Discord.Net.Commands.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Discord.Net.Core.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Discord.Net.Rest.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Discord.Net.Webhook.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Hosting.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.Console.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.Debug.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\MySqlConnector.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Pomelo.JsonObject.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\System.Interactive.Async.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\System.Linq.Async.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Infrastructure.dll
+D:\BOT\BotUpdate\BotUpdate\bin\Debug\net5.0\Infrastructure.pdb
+D:\BOT\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.csproj.AssemblyReference.cache
+D:\BOT\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOT\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.AssemblyInfoInputs.cache
+D:\BOT\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.AssemblyInfo.cs
+D:\BOT\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.csproj.CoreCompileInputs.cache
+D:\BOT\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.csproj.CopyComplete
+D:\BOT\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.dll
+D:\BOT\BotUpdate\BotUpdate\obj\Debug\net5.0\ref\BotUpdate.dll
+D:\BOT\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.pdb
+D:\BOT\BotUpdate\BotUpdate\obj\Debug\net5.0\BotUpdate.genruntimeconfig.cache
